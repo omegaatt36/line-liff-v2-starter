@@ -17,7 +17,7 @@ const commonConfig = {
         watch: true,
       }
     ],
-    port: 3000,
+    port: 8000,
   },
 
   resolve: {
